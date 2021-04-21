@@ -10,4 +10,4 @@
 
 # My projects
 
-Link to the my main project : [Ergoduino](https://github.com/Abr1bus/ErgoDuino)
+Link to the my main project : [Ergoduino](https://github.com/Abr1bus/ErgoDuino) ( :construction: It's now private, I am working hard to design the PCB :construction: )
